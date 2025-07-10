@@ -1,6 +1,6 @@
 aws artifact
 aws secret manager
-aws kms
+aws km
 aws s3 cmk
 aws global accc
 aws waf shiel shild standard

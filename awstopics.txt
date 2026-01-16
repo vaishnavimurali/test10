@@ -13,5 +13,6 @@ amazon elastic cache
 launch configuration/launch template
 site to site vpn,customer gway, vprivate gateway
 dms kinesis redshift all databases
+bnxvc
 
 https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-managed-vpn-network-to-amazon.html
